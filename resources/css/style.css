@@ -3,12 +3,12 @@
 }
 
 body {
+  color: White;
   background-color: Black;
   text-align: center;
 }
 
 h1 {
-  color: White;
   font-weight: normal;
   font-size: 50px;
 }
